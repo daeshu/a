@@ -3,7 +3,7 @@
 # Site Settings
 title: 						"DAESHU"
 email: 						"daniel@escobar.eu.org"
-description: 				"Este blog es la continuación de las publicaciones de antaño Mal Signo e Insolación, alojado en Github"
+description: 				"Este blog es la continuación de Mal Signo e Insolación"
 baseurl: 					""
 url: 						"https://daeshu.github.io/a/"
 logourl: 					"/assets/img/bloglogo.jpg"		
