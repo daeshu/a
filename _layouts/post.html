@@ -61,7 +61,7 @@ layout: default
             <h1 id="posttitle"><a href="#">{{ page.title }}</a></h1>
             <span>
                 Publicado por <a href="{{author.website}}" target="_blank">{{ site.author_name }}</a>
-                el <i class="fa fa-clock-o"></i> <time datetime="{{ page.date| date: "%m-%Y-%d" }}">{{ page.date | date: "%B %-d, %Y" }}</time>.
+                el <i class="fa fa-clock-o"></i> <time datetime="{{ page.date| date: "%m-%Y-%d" }}">{{ page.date | date: "%-d, %B %Y" }}</time>.
             </span>
         </header>
 
@@ -117,7 +117,7 @@ layout: default
 
         {% if page.comments %}
         <div class="comments">
-            <a href="javascript:;" class="readmore smallbutton blue"><i class="fa fa-comments"></i>Ver los comentarios...</a>
+            <a href="javascript:;" class="readmore smallbutton blue"><i class="fa fa-comments"></i>Comentar, ver comentarios...</a>
             <div id="disqus_thread"></div>
             <div id="g-comments"></div>
         </div>
