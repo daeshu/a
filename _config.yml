@@ -3,9 +3,9 @@
 # Site Settings
 title: 						"DAESHU"
 email: 						"daniel@escobar.eu.org"
-description: 				"Página de publicaciones de Daniel, alojado en Github"
+description: 				"Este blog es la continuación de las publicaciones de antaño Mal Signo e Insolación, alojado en Github"
 baseurl: 					""
-url: 						"https://daniel.escobar.eu.org"
+url: 						"https://daeshu.github.io/a/"
 logourl: 					"/assets/img/bloglogo.jpg"		
 fa-logo: 					"fa-bookmark-o"
 paginate: 					5
@@ -13,8 +13,8 @@ paginate: 					5
 
 # Author Settings
 author_name: 				"DAESHU"
-author_url: 				"https://escobar.eu.org"
-author_bio: 				"Modificado y corregido por Daniel."
+author_url: 				""
+author_bio: 				"Publicado por Daniel."
 author_email: 				"info@escobar.eu.org"
 author_image: 				"/assets/img/authorimage.jpg"
 
