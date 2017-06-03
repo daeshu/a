@@ -1,7 +1,7 @@
 
 
 # Site Settings
-title: 						"ESCOBAR"
+title: 						"Escobar"
 email: 						"info@escobar.eu.org"
 description: 				"Memorias de un grano de arena en un día soleado en las costas de algún remoto lugar en el planeta tierra."
 baseurl: 					"https://blog.escobar.eu.org"
@@ -12,7 +12,7 @@ paginate: 					5
 
 
 # Author Settings
-author_name: 				"ESCOBAR"
+author_name: 				"Escobar"
 author_url: 				"https://blog.escobar.eu.org"
 author_bio: 				"Memorias de un grano de arena en un día soleado en las costas de algún remoto lugar en el planeta tierra."
 author_email: 				"info@escobar.eu.org"
