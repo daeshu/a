@@ -2,8 +2,8 @@
 
 # Site Settings
 title: 						"DAESHU"
-email: 						"daniel@escobar.eu.org"
-description: 				"Este blog es la continuación de Mal Signo e Insolación"
+email: 						"info@escobar.eu.org"
+description: 				"Memorias de un grano de arena en un día soleado en las costas de algún remoto lugar en el planeta tierra"
 baseurl: 					""
 url: 						"https://daeshu.github.io/a/"
 logourl: 					"/assets/img/bloglogo.jpg"		
@@ -14,7 +14,7 @@ paginate: 					5
 # Author Settings
 author_name: 				"DAESHU"
 author_url: 				""
-author_bio: 				"Publicado por Daniel."
+author_bio: 				"Publicado por Daniel y estraído de las memorias de un grano de arena en un día soleado en las costas de algún remoto lugar en el planeta tierra."
 author_email: 				"info@escobar.eu.org"
 author_image: 				"/assets/img/authorimage.jpg"
 
